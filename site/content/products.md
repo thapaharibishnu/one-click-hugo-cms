@@ -1,5 +1,5 @@
 ---
-title: Coffee Lovers
+title: Coffee Lover
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
